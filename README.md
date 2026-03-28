@@ -164,10 +164,7 @@ smartinvest-ai/
 
 ---
 
-## 🎥 Demo Video
-
-*Add demo video link here*
-
+## 🎥 Website: https://invest-insight--pandeyanshit82.replit.app
 ---
 
 ## 🏆 Why SmartInvest AI Stands Out
