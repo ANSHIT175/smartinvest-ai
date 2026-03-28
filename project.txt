@@ -1,0 +1,9 @@
+SmartInvest AI is an AI-powered investment decision system.
+
+Key Features:
+- Real-time stock analysis
+- AI-based BUY / HOLD / SELL signals
+- Confidence score
+- Explainable reasoning
+
+Built for retail investors to simplify decision making.
