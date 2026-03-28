@@ -1,0 +1,10 @@
+Live Demo:
+https://invest-insight--pandeyanshit82.replit.app
+
+Steps to test:
+1. Enter stock name (RELIANCE, TATA, INFY)
+2. Click Analyze
+3. View AI decision (BUY / HOLD / SELL)
+4. See confidence score and reasoning
+
+Demo video explains full workflow.
