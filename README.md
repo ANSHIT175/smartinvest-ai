@@ -131,28 +131,12 @@ User → Data Layer → AI Agents → Signal Engine → Decision Engine → Aler
 ## 📁 Project Structure
 
 ```bash
-smartinvest-ai/
-│── app.py
-│── requirements.txt
-│── README.md
-│
-├── data/
-│   └── sample_data.json
-│
-├── ai_agents/
-│   ├── technical_agent.py
-│   ├── sentiment_agent.py
-│   └── pattern_agent.py
-│
-├── engine/
-│   ├── signal_engine.py
-│   └── decision_engine.py
-│
-├── utils/
-│   └── helper.py
-│
-└── demo/
-    └── output_example.txt
+smartinvest-ai
+├── README.md
+├── index.html
+├── LICENSE
+├── demo.txt
+└── project.txt
 ```
 
 ---
